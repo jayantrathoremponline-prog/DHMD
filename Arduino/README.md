@@ -41,11 +41,11 @@ Connect the components as follows:
 
 ## 📂 Arduino Code File
 
-**File name:** `height_sensor.ino`
+**File name:** `DHMD.ino`
 
 ### How to Upload
 
-1. Open `height_sensor.ino` in the Arduino IDE.
+1. Open `DHMD.ino` in the Arduino IDE.
 2. Select your board (Tools → Board → Arduino Uno/Nano/etc.).
 3. Select the correct port (Tools → Port).
 4. Click **Upload**.
